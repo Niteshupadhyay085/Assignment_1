@@ -1,0 +1,29 @@
+Git >> Version Control
+
+  v1
+  v2
+  v3
+  new V4
+
+
+  >> It is distributed (on Cloud)
+  >> Collaboration
+  >> Tracking Changes
+  >> Recovery
+
+  GitHub
+  BitBucket
+  GitLabs
+  GitPod
+
+
+  >> For 1st time to configure Github in your System.
+
+  git config --global user.name "Niteshupadhyay085"
+  git config --global user.email "niteshupadhayay927@gmail.com"
+
+  
+
+  ==>> Mandatory Commands:
+        >> git init 
+        >> git remote add origin https://github.com/Niteshupadhyay085/Assignment_1.git
