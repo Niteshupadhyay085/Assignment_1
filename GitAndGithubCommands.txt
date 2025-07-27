@@ -27,3 +27,13 @@ Git >> Version Control
   ==>> Mandatory Commands:
         >> git init 
         >> git remote add origin https://github.com/Niteshupadhyay085/Assignment_1.git
+
+
+
+git add .
+git status
+git commit -m "Commit Message"
+git push
+
+==>> To create a new Branch use command--
+>> git checkout -b "Branch_Name"
